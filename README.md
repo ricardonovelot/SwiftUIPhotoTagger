@@ -19,7 +19,7 @@
 
 
 <h2>License</h2>
-<p>This project is licensed under the MIT License. For more details, see the <a href="LICENSE.md">LICENSE.md</a> file included in the repository.</p>
+<p>This project is licensed under the MIT License. For more details, see the <a href="LICENSE">LICENSE.md</a> file included in the repository.</p>
 <br>
 
 
